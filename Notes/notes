@@ -1,0 +1,13 @@
+<iostream> ==>input output stream . Its a header file
+int main()===>function
+
+
+cout ==> to print.. console e kono kichu print korar jonne cout use kora hoi.
+
+return ==> return is a keyword
+
+(\) Backslash character usually output function e use kora hoi... jaa output function hesebe kaaj kore....
+
+\n to create a new line. we can also create e new line by pul endl....
+
+example :  cout << " Hello World" << endl;
