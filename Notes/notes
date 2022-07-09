@@ -11,3 +11,7 @@ return ==> return is a keyword
 \n to create a new line. we can also create e new line by pul endl....
 
 example :  cout << " Hello World" << endl;
+
+
+
+void function never return anything
