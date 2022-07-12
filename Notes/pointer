@@ -1,0 +1,16 @@
+pointer is a variable where we can stores / points the address of another variable.
+
+
+Declaration of Pointer : 
+
+data_type *variable_name;
+
+ex : int *p;
+     char *ch;
+
+
+
+2 symbols r used in pointer : 
+
+&  symbol is used to get the address of the variable
+* symbol is used to get the value of the variable that the pointer is pointing to.
