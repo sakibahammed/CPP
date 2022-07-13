@@ -1,0 +1,13 @@
+Function : A function is a group of statement that performs a particular task;
+
+eg : 
+
+int main(){
+
+    // group statement 
+}
+
+function 02 types : 
+
+library function
+User defined function
