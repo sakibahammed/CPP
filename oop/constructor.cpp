@@ -15,6 +15,9 @@ class Student{
         id = x ; 
         cgpa = y;
     }
+    Student(){
+        cout<<"This is DEfault constructor"<<endl;
+    }
 
 };
 
@@ -24,6 +27,14 @@ int main(){
     Student nazifa(23,3.45);
     sakib.display();
     nazifa.display();
+
+
+
+    Student ob;
+
+
+
+
 
 }
 
