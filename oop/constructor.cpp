@@ -30,7 +30,9 @@ int main(){
 
 
 
-    Student ob;
+    Student ob; // ekhane ob er kono perameter na thakai shey default constructor k call korce...
+
+    
 
 
 

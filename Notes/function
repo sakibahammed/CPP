@@ -11,3 +11,10 @@ function 02 types :
 
 library function
 User defined function
+
+
+Passing arguments to a function :::
+
+There are 2 ways to pass value into a function
+1 . Pass by value
+2 . Pass by reference

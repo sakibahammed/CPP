@@ -1,0 +1,4 @@
+Recursion is a process where a function can call itself.
+
+To stop calling we need a base case.
+
